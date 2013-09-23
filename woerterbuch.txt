@@ -1,0 +1,5 @@
+dexterbd	Dexter
+mentalist	The.Mentalist
+fringe	Fringe
+psychrt	Psych
+psych	Psych

@@ -1,0 +1,107 @@
+S01E01	Red John
+S01E02	Romeo und Julia
+S01E03	Surfin? California
+S01E04	Die schöne Witwe
+S01E05	Beste Freundinnen
+S01E06	Tisch 43
+S01E07	Stimmen aus dem Jenseits
+S01E08	Schüsse in Zimmer 22
+S01E09	Flammen der Rache
+S01E10	Verbrecher oder Heilige
+S01E11	Der Freund eines Freundes
+S01E12	Original und Fälschung
+S01E13	Der Frauenflüsterer
+S01E14	Der Frauenflüsterer
+S01E15	Lippenstift und Gift
+S01E16	Schwarz wie die Nacht
+S01E17	Im freien Fall
+S01E18	Hypnose
+S01E19	Ein Dutzend Rosen
+S01E20	Golf mit dem Paten
+S01E21	Millionenspiel
+S01E22	Die Axt im Walde
+S01E23	Der Lauf der Welt
+S02E01	Schmerz und Geld
+S02E02	Der Problemlöser
+S02E03	Türen im Kopf
+S02E04	Der einzige Mandant
+S02E05	Peppers Geist
+S02E06	Boscos Rache
+S02E07	Ernie und Bert
+S02E08	Grüße von Red John
+S02E09	Gepresste Kohle
+S02E10	Sport ist Mord
+S02E11	Die schönsten Jahre
+S02E12	Der blaue Topas
+S02E13	Der Krieg der Wölfe
+S02E14	Der beste Freund
+S02E15	Der Geschmack des Todes
+S02E16	Code Red
+S02E17	Kleopatras Ring
+S02E18	Giftiges Wasser
+S02E19	Auftragsmord
+S02E20	Gemischtes Doppel
+S02E21	Schachmatt
+S02E22	Der Menschenfreund
+S02E23	Kein einziges Wort
+S03E01	Die Diamantenfalle
+S03E02	Das perfekte Opfer
+S03E03	Die Feinde der Wahrheit
+S03E04	Lügen und Kerzen
+S03E05	Schnell wie der Wind
+S03E06	Ruhe in Frieden
+S03E07	Sag niemals nie
+S03E08	Von langer Hand
+S03E09	Tiger, Tiger?
+S03E10	Todesengel
+S03E11	Bis aufs Blut
+S03E12	Harte Zahlen
+S03E13	Mittel und Wege
+S03E14	Spätes Wunder
+S03E15	Goldrausch
+S03E16	Besser Allein
+S03E17	Schmerzensschreie
+S03E18	Kleine graue Männchen
+S03E19	Keine Rose ohne Dornen
+S03E20	Ein Akt der Liebe
+S03E21	Alte Schule
+S03E22	Hortensien lügen nicht
+S03E23	Bomben
+S03E24	Erdbeeren mit Sahne
+S04E01	Eine harte Woche
+S04E02	Der letzte Beweis
+S04E03	Hoffen und Lügen
+S04E04	Der Mann aus Texas
+S04E05	Blume im Meer
+S04E06	Kopfgeldjäger
+S04E07	Das Zeichen an der Wand
+S04E08	Eine Frage des Respekts
+S04E09	Wahrheit tut weh
+S04E10	Der Mörder mit der Maske
+S04E11	Die Geister, die wir riefen
+S04E12	Allein in der Wildnis
+S04E13	Die goldene Feder
+S04E14	Im Wein liegt Wahrheit
+S04E15	Mitten im Sommer
+S04E16	Die rote Wolke
+S04E17	Keine Lust auf Shakespeare
+S04E18	Die Aura des Todes
+S04E19	Der Zauberer
+S04E20	High School Drama
+S04E21	Rote Absätze
+S04E22	Man nennt es Gier
+S04E23	Das offene Grab
+S04E24	Der Angler und der Fisch
+S05E01	Rote Glasperlen
+S05E02	Belladonna
+S05E03	Ticket nach Brasilien
+S05E04	Der letzte Gruß
+S05E05	Wie alles anfing
+S05E06	Fünf Millionen
+S05E07	Unangreifbar
+S05E08	Miranda
+S05E09	Kirschrot
+S05E10	Der Botaniker
+S05E11	Falsche Zeit, falscher Ort
+S05E12	Der einzige Zeuge
+S05E13	Die rote Scheune
